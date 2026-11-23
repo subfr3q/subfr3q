@@ -4,7 +4,6 @@
   <img src="assets/header-light.png" alt="subfr3q — binary header" width="880">
 </picture>
 
-## Somewhere around the boundary between intended behavior and implementation details.
 
 ### Stack
 
